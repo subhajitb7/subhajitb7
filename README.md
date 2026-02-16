@@ -1,29 +1,18 @@
 
-<h1 align="center">Hi 👋, I'm Aniket Dey</h1>
-<h3 align="center">A frontend developer -->> backend developer</h3>
+<h1 align="center">Hi 👋, I'm Subhajit Bag</h1>
+<h3 align="center">A Full Stack Web Dev</h3>
 
-# 💫 About Me: <img src="https://visitor-badge.laobi.icu/badge?page_id=AniketDey06.AniketDey06&"/>
+# 💫 About Me: <img src="https://visitor-badge.laobi.icu/badge?page_id=subhajitb7.subhajitb7&"/>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at [aniketdey.in/](https://aniketdey.in/)
+- 👨‍💻 All of my projects are available at [subhajitbag.in/](https://subhajitbag.in/)
 
-- 💬 Ask me about **react, Web Dev**
+- 💬 Ask me about **Web Dev**
 
-- 📫 How to reach me **meaniketdey@gmail.com**
-
-- ⚡ Fun fact **🏍️❤️**
+- 📫 How to reach me **u2subhajit@gmail.com**
 
 # 🌐 Socials:
-
-<!-- <p align="left">
-<a href="https://twitter.com/aniketdey_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aniketdey_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aniketdey~" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniketdey~" height="30" width="40" /></a>
-<a href="https://fb.com/aniket.dey.3998263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aniket.dey.3998263" height="30" width="40" /></a>
-<a href="https://instagram.com/aniket_dey_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aniket_dey_" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/meanike03ph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="meanike03ph" height="30" width="40" /></a>
-<a href="https://discord.gg/aniketdey." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aniketdey." height="30" width="40" /></a>
-</p> -->
 
 <div align="left">
   <a href="https://x.com/subhajitb7_" target="_blank">
@@ -32,10 +21,6 @@
   <a href="https://www.linkedin.com/in/subhajitbag/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
-  <!--
-  <a href="" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
-  </a> -->
   <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=u2subhajit@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
   </a>
@@ -87,7 +72,6 @@
 # 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subhajitb7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=subhajitb7&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=subhajitb7&radius=16&theme=react&area=true&order=5&hide_title=false&hide_border=true&bg_color=black" height="300" alt="activity-graph graph"  />
 </div>
